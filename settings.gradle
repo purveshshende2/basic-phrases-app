@@ -1,0 +1,2 @@
+rootProject.name='Basic Phrase App'
+include ':app'
